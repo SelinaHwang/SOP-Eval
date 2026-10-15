@@ -1,0 +1,1 @@
+﻿runId,candidateId,inputVersion,caseId,scene,expectedResponseType,actualResponseType,目标一致性,场景和时间边界,动作可执行性,顺序连贯性,阶段级粒度,流程完整度,时长可信度,限制与额外臆测,安全性,标题、名称与标签表达,caseGrade,aCount,bCount,cCount,mainIssue,issueDescription,evaluator,notes
